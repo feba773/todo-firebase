@@ -4,7 +4,7 @@ import { getFirestore } from "https://www.gstatic.com/firebasejs/10.7.1/firebase
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCJA0Y1fUsDYM89SKC10Bz7wYbokCvc_S0",
+  apiKey: "your api key here",
   authDomain: "energy-347f8.firebaseapp.com",
   databaseURL: "https://energy-347f8-default-rtdb.firebaseio.com",
   projectId: "energy-347f8",
